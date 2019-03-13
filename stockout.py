@@ -10,6 +10,8 @@ Discrete-Event Simulation of Single-Product Inventory System (s,S)
 This is a SimPy replication of the C program given by Law and Kelton
 (2000, pp. 73--79) to simulate a single-product inventory system.
 
+William Muir (2019)
+
 """
 
 
