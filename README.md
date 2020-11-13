@@ -10,7 +10,7 @@ Note that Law and Kelton run a single replication, as does this Python replicati
 
 ### Results given in Law and Kelton (2000)
 
-| Policy | Average total cost | Average ordering cost | Average holding cost | Average shortage cost |
+| Inventory Policy | Average total cost | Average ordering cost | Average holding cost | Average shortage cost |
 | :----: | :----------------: | :-------------------: | :------------------: | :-------------------: |
 | ( 20, 40) | 126.61 |  99.26 |  9.25 | 18.10 |
 | ( 20, 60) | 122.74 |  90.52 | 17.39 | 14.83 |
@@ -25,7 +25,7 @@ Note that Law and Kelton run a single replication, as does this Python replicati
 
 ### Results from replication in Python (using SimPy DES library)
 
-| Policy | Average total cost | Average ordering cost | Average holding cost | Average shortage cost |
+| Inventory Policy | Average total cost | Average ordering cost | Average holding cost | Average shortage cost |
 | :----: | :----------------: | :-------------------: | :------------------: | :-------------------: |
 | ( 20, 40) | 126.87 | 97.36 |  8.61 | 20.90 |
 | ( 20, 60) | 124.72 | 92.13 | 15.87 | 16.71 |
